@@ -1,0 +1,10 @@
+{
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    },
+    "atlascode.jira.workingProject": {
+        "id": "19596",
+        "name": "CPQ Tools",
+        "key": "CT"
+    }
+}
